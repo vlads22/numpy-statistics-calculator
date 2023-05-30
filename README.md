@@ -1,5 +1,5 @@
 # Numpy-statistics
-The project uses Numpy to calculate the variance and standard deviation, among other indicators
+The project uses Numpy to calculate the variance and standard deviation, among other indicators.
 
 We calculate the following:
 - mean
